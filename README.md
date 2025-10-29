@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Eyal Kalish</h1>
-<h3 align="center">A Software Engineer Student</h3>
+<h3 align="center">A Software Engineer Student on my 2nd year</h3>
 <h4 align="center">on my spare time i'm learning unity:) </h4>
 
 <!-- <h3 align="left">Connect with me:</h3>
